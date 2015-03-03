@@ -7,7 +7,7 @@
 bin
 build
 
-.idea/**
+.idea
 *.iml
 classes
 rebel.xml
